@@ -1,5 +1,5 @@
 # Fungible Flipping Funding
-#### Note:This is a reupload of the project for resume purposes
+#### Note: This is a reupload of the project for resume purposes
 #### Following accounts contributed: @simargadri @peter952 @aakashsonali @kimaustria
 ## Crowdfunding for Real Estate
 * Problem Statement: The current real estate market has made it hard for many individuals to own an estate let alone leverage property as an investment opportunity (i.e. house flipping) due to the different barriers to entry. Our Solidity contracts aims at solving this problem through crowdfunding.
